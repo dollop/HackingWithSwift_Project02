@@ -6,6 +6,7 @@
 //  Copyright © 2016 dollop Inc. All rights reserved.
 //
 // This was created on 05/06/16 at 10:09am
+// This is a change made from the MacBook on the same project.
 
 import UIKit
 
