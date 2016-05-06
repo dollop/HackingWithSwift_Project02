@@ -50,6 +50,15 @@ class ViewController: UIViewController {
         
         countries.append("us")
         
+        
+        button1.layer.borderWidth = 1
+        
+        button2.layer.borderWidth = 1
+        
+        button3.layer.borderWidth = 1
+        
+        
+        
         askQuestion ()
         
     }
